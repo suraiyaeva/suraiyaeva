@@ -19,20 +19,18 @@ Skills = {
     "C",
     "C++",
     "Java",
-    "Dart",
+    "JavaScript",
+    "PHP"
     "HTML & CSS",
-    "JavaScript"
   ],
 
-  Frameworks: [
-    "Express.JS",
-    "Flutter",
-    "Spring Boot"
-  ],
-
-  TemplatingEngine: [
-    "Handlebars",
-    "EJS"
+  LIBRARIES && Frameworks: [
+    "React.JS"
+    "MUI",
+    "JAVA SWING",
+    "Laravel",
+    "Tailwind CSS"
+    
   ],
 
   Databases: [
@@ -42,7 +40,8 @@ Skills = {
 
   VersionControl: [
     "Git",
-    "GitHub"
+    "GitHub",
+    "GitLab"
   ],
 
   Others: [
