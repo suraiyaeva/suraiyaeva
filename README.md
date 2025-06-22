@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Skills = {
+  Languages: [
+    "C",
+    "C++",
+    "Java",
+    "Dart",
+    "HTML & CSS",
+    "JavaScript"
+  ],
+
+  Frameworks: [
+    "Express.JS",
+    "Flutter",
+    "Spring Boot"
+  ],
+
+  TemplatingEngine: [
+    "Handlebars",
+    "EJS"
+  ],
+
+  Databases: [
+    "MySQL",
+    "MongoDB"
+  ],
+
+  VersionControl: [
+    "Git",
+    "GitHub"
+  ],
+
+  Others: [
+    "Vercel",
+    "Postman",
+    "Docker"
+  ]
+};
