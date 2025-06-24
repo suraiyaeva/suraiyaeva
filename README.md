@@ -30,11 +30,9 @@ Skills = {
     "JAVA SWING",
     "Laravel",
     "Tailwind CSS"
-    
   ],
 
   Databases: [
-    "MySQL",
     "MongoDB"
   ],
 
@@ -45,8 +43,6 @@ Skills = {
   ],
 
   Others: [
-    "Vercel",
     "Postman",
-    "Docker"
   ]
 };
